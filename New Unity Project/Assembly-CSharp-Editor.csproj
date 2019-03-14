@@ -229,19 +229,19 @@
      <None Include="Assets\PlayMaker\Editor\Install\readme.txt" />
      <None Include="Assets\PlayMaker\Editor\UnityEngine.UI.xml" />
  <Reference Include="Assembly-UnityScript-firstpass">
- <HintPath>D:/Test/New Unity Project/Library/ScriptAssemblies/Assembly-UnityScript-firstpass.dll</HintPath>
+ <HintPath>D:/Documents/TestGame/New Unity Project/Library/ScriptAssemblies/Assembly-UnityScript-firstpass.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.StandardEvents">
- <HintPath>D:/Test/New Unity Project/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+ <HintPath>D:/Documents/TestGame/New Unity Project/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro.Editor">
- <HintPath>D:/Test/New Unity Project/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+ <HintPath>D:/Documents/TestGame/New Unity Project/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.PackageManagerUI.Editor">
- <HintPath>D:/Test/New Unity Project/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+ <HintPath>D:/Documents/TestGame/New Unity Project/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro">
- <HintPath>D:/Test/New Unity Project/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+ <HintPath>D:/Documents/TestGame/New Unity Project/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -484,25 +484,25 @@
  <HintPath>C:/Program Files/Unity/Editor/Data/PlaybackEngines/windowsstandalonesupport/UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
  </Reference>
  <Reference Include="ConditionalExpression">
- <HintPath>D:/Test/New Unity Project/Assets/PlayMaker/ConditionalExpression.dll</HintPath>
+ <HintPath>D:/Documents/TestGame/New Unity Project/Assets/PlayMaker/ConditionalExpression.dll</HintPath>
  </Reference>
  <Reference Include="ConditionalExpressionEditor">
- <HintPath>D:/Test/New Unity Project/Assets/PlayMaker/Editor/ConditionalExpressionEditor.dll</HintPath>
+ <HintPath>D:/Documents/TestGame/New Unity Project/Assets/PlayMaker/Editor/ConditionalExpressionEditor.dll</HintPath>
  </Reference>
  <Reference Include="PlayMakerEditor">
- <HintPath>D:/Test/New Unity Project/Assets/PlayMaker/Editor/PlayMakerEditor.dll</HintPath>
+ <HintPath>D:/Documents/TestGame/New Unity Project/Assets/PlayMaker/Editor/PlayMakerEditor.dll</HintPath>
  </Reference>
  <Reference Include="PlayMakerEditorResources">
- <HintPath>D:/Test/New Unity Project/Assets/PlayMaker/Editor/PlayMakerEditorResources.dll</HintPath>
+ <HintPath>D:/Documents/TestGame/New Unity Project/Assets/PlayMaker/Editor/PlayMakerEditorResources.dll</HintPath>
  </Reference>
  <Reference Include="Photon3Unity3D">
- <HintPath>D:/Test/New Unity Project/Assets/Plugins/Photon3Unity3D.dll</HintPath>
+ <HintPath>D:/Documents/TestGame/New Unity Project/Assets/Plugins/Photon3Unity3D.dll</HintPath>
  </Reference>
  <Reference Include="JetBrains.Rider.Unity.Editor.Plugin.Repacked">
- <HintPath>D:/Test/New Unity Project/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll</HintPath>
+ <HintPath>D:/Documents/TestGame/New Unity Project/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll</HintPath>
  </Reference>
  <Reference Include="PlayMaker">
- <HintPath>D:/Test/New Unity Project/Assets/Plugins/PlayMaker/PlayMaker.dll</HintPath>
+ <HintPath>D:/Documents/TestGame/New Unity Project/Assets/Plugins/PlayMaker/PlayMaker.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.Advertisements">
  <HintPath>C:/Users/Administrator/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.ads@2.0.8/Editor/UnityEditor.Advertisements.dll</HintPath>
